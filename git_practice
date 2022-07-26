@@ -1,1 +1,3 @@
-print("Hello Git world!")
+git_practice$ git init
+Initialized empty Git repository in git_practice/.git
+git_practice$
